@@ -45,3 +45,51 @@ Folder link: [leetcode/array](../leetcode/array)
 * 3Sum
 * Search in Rotated Sorted Array
 * Subarray Sum Equals K
+
+
+## 2. Two Pointers Folder
+
+Folder link: [leetcode/two_pointers](../leetcode/two_pointers)
+
+### Coverage
+
+* Fourteen problems in total
+* Spans string comparison, sorted array searching, in place partitioning, interval overlap, backward scanning, greedy pairing, permutation generation, sliding window technique, and fast and slow pointer cycle detection
+
+### Key Patterns Learned
+
+* Inward pointer comparison on strings, from Valid Palindrome and Valid Palindrome II
+* Narrowing on a sorted array toward a target, from Two Sum II
+* Closest sum tracking instead of exact matching, from 3Sum Closest
+* Three way in place partitioning, from Sort Colors
+* Comparing magnitude from both ends and filling backward, from Squares of a Sorted Array
+* Greedy pairing of extremes, from Boats to Save People
+* At most two occurrences in place filtering, from Remove Duplicates from Sorted Array II
+* Extending a three number pattern to four, from 4Sum
+* Comparing two separate sorted lists simultaneously, from Interval List Intersections
+* Backward scanning with pending deletion tracking, from Backspace String Compare
+* Grouping based on last occurrence, from Partition Labels
+* Careful in place rearrangement into the next ordering, from Next Permutation
+* Sliding window expansion and shrinking with frequency tracking, from Minimum Window Substring
+* Fast and slow pointer cycle detection, from Linked List Cycle
+
+### Where This Applies in Interviews
+
+* Two Sum II and Valid Palindrome are common warm up questions testing clean pointer logic
+* Minimum Window Substring is considered one of the hardest and most respected string problems industry wide
+* Linked List Cycle is a staple at nearly every company that tests linked list fundamentals
+* Sort Colors and Next Permutation are common at companies testing careful in place manipulation under constraints
+
+### Preparing in Kenya and Worldwide
+
+* The same gap applies here as with arrays, very few companies hiring directly within Kenya run strict algorithmic interviews of this style
+* This preparation remains most valuable as a gateway into remote roles at international companies and global hiring platforms
+* The underlying patterns, pairing, shrinking, and cycle detection, also map directly onto practical systems in fintech, healthtech, logistics, and ride hailing platforms, not just interview settings
+
+### Priority List if Time is Limited
+
+* Two Sum II
+* Valid Palindrome
+* Minimum Window Substring
+* Linked List Cycle
+* Next Permutation
